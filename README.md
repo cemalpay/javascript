@@ -709,7 +709,7 @@ Diğer Rehberler
   <a name="es6-rest"></a><a name="7.6"></a>
   - [7.6](#es6-rest) `arguments` yerine içeriğe rest `...` ile ulaşın. eslint: [`prefer-rest-params`](https://eslint.org/docs/rules/prefer-rest-params)
 
-    > Neden? `...` ile sadece istenen argümanlara erişebilirsiniz. Atrıca rest argümanlar dizi-benzeri `arguments`'in aksine gerçek bir dizidir.
+    > Neden? `...` ile sadece istenen argümanlara erişebilirsiniz. Ayrıca rest argümanlar dizi-benzeri `arguments`'in aksine gerçek bir dizidir.
 
     ```javascript
     // kötü
@@ -1340,7 +1340,7 @@ Diğer Rehberler
   <a name="modules--multiline-imports-over-newlines"></a>
   - [10.8](#modules--multiline-imports-over-newlines) Import'lar tıpkı çok satırlı diziler ve çok satırlı sabitler gibi kullanılmalıdır.
 
-    > Neden? Süslü paramntezlere sahip bloklar stil rehberinin tamamında aynı yazım kurallarına sahiptir.
+    > Neden? Süslü parantezlere sahip bloklar stil rehberinin tamamında aynı yazım kurallarına sahiptir.
 
     ```javascript
     // kötü
